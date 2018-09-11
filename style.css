@@ -1,1 +1,13 @@
-h1 { color:white }
+body{
+    background: grey;
+}
+h1 { 
+    color:white 
+}
+
+div {
+    margin: 8px;
+    height: 100px;
+    width: 100px;
+    background: orange
+}
